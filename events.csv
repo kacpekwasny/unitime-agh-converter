@@ -1,0 +1,90 @@
+"Nazwa","Grupa","Typ","Tytuł","Uwaga","Dzień tygodnia","Pierwszy dzień","Ostatni dzień","Ogłoszony początek","Ogłoszony koniec","Miejsce","Pojemność","Prowadzący / Odpowiedzialny","E-mail","Żądane usługi","Zatwierdzony",
+"IEiT-TEI-1 MetNum(2rok)","1","Wykład","Metody numeryczne (2rok)",,"Wt","11.10.2022",,"8:00","9:30","D-6 201","176","prof dr hab. inż. Zieliński, T","tzielin@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 POb(2rok)","1","Wykład","Programowanie obiektowe (2rok)",,"Pn","10.10.2022",,"8:00","9:30","D-5 1","126","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 PodstEle(2rok)","1","Wykład","Podstawy elektroniki (2rok)",,"Cz","13.10.2022",,"14:40","16:10","C-3 501","56","dr inż. Kościelnik, D","koscieln@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 PodstEle(2rok)","1a","Wykład","Podstawy elektroniki (2rok)",,"Pn","10.10.2022",,"17:10","18:40","C-3 501","56","dr inż. Kościelnik, D","koscieln@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SIP(2rok)","1","Wykład","Sieci IP (2rok)",,"Pn","10.10.2022",,"18:50","20:20","D-5 1","126","dr hab. inż. Pacyna, P","ppacyna@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SiS(2rok)","1","Wykład","Sygnały i systemy (2rok)",,"Wt","11.10.2022",,"14:40","16:10","D-6 201","176","prof dr hab. Papir, Z","papir@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 TechRad(2rok)","1","Wykład","Techniki radiowe (2rok)",,"Pn","10.10.2022",,"11:20","12:50","D-6 201","176","dr inż. Kułakowski, P
+dr inż. Sikora, M","kulakowski@agh.edu.pl
+sikora@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SiS(2rok)","1","CWA","Sygnały i systemy (2rok)",,"Śr","12.10.2022",,"17:10","18:40","B-9 012","30","dr inż. Stoch, S","stoch@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SiS(2rok)","2","CWA","Sygnały i systemy (2rok)",,"Śr","12.10.2022",,"18:50","20:20","B-9 012","30","dr inż. Stoch, S","stoch@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 MetNum(2rok)","1","CWL","Metody numeryczne (2rok)",,"Pn","10.10.2022",,"13:00","14:30","B-9 005","15","dr hab. inż. Chołda, P
+dr inż. Wszołek, J
+mgr inż. Kos, A","cholda@agh.edu.pl
+jwszolek@agh.edu.pl
+kosar@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 MetNum(2rok)","2","CWL","Metody numeryczne (2rok)",,"Pt","14.10.2022",,"11:20","12:50","B-9 1.04","15","dr hab. inż. Chołda, P
+dr inż. Wszołek, J
+mgr inż. Kos, A","cholda@agh.edu.pl
+jwszolek@agh.edu.pl
+kosar@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 MetNum(2rok)","3","CWL","Metody numeryczne (2rok)",,"Wt","11.10.2022",,"16:20","17:50","B-9 1.11","15","dr hab. inż. Chołda, P
+dr inż. Wszołek, J
+mgr inż. Kos, A","cholda@agh.edu.pl
+jwszolek@agh.edu.pl
+kosar@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 MetNum(2rok)","4","CWL","Metody numeryczne (2rok)",,"Wt","11.10.2022",,"11:20","12:50","B-9 1.02","15","dr hab. inż. Chołda, P
+dr inż. Wszołek, J
+mgr inż. Kos, A","cholda@agh.edu.pl
+jwszolek@agh.edu.pl
+kosar@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 POb(2rok)","1","CWL","Programowanie obiektowe (2rok)",,"Cz","13.10.2022",,"8:00","9:30","B-9 005","15","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 POb(2rok)","2","CWL","Programowanie obiektowe (2rok)",,"Cz","13.10.2022",,"9:40","11:10","B-9 1.04","15","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 POb(2rok)","3","CWL","Programowanie obiektowe (2rok)",,"Cz","13.10.2022",,"11:20","12:50","B-9 1.04","15","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 POb(2rok)","4","CWL","Programowanie obiektowe (2rok)",,"Cz","13.10.2022",,"13:00","14:30","B-9 1.03","15","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SIP(2rok)","1","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"8:50","10:20","B-9 1.03","15","dr hab. inż. Kosek-Szott, K","kks@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SIP(2rok)","2","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"10:30","12:00","B-9 1.03","15","dr hab. inż. Kosek-Szott, K","kks@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SIP(2rok)","3","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"8:00","9:30","B-9 1.04","15","dr hab. inż. Pacyna, P","ppacyna@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SIP(2rok)","4","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"9:40","11:10","B-9 1.04","15","dr hab. inż. Pacyna, P","ppacyna@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SysOp(2rok)","1","CWL","Systemy operacyjne (2rok)",,"Cz","13.10.2022",,"18:00","19:30","B-9 005","15","dr inż. Dańda, J
+dr inż. Juszka, D
+Weinzettl, J","danda@agh.edu.pl
+juszka@agh.edu.pl
+jakob@agh.edu.pl",,"24.9.2022",
+"IEiT-TEI-1 SysOp(2rok)","2","CWL","Systemy operacyjne (2rok)",,"Cz","13.10.2022",,"19:40","21:10","B-9 005","15","dr inż. Dańda, J
+dr inż. Juszka, D
+Weinzettl, J","danda@agh.edu.pl
+juszka@agh.edu.pl
+jakob@agh.edu.pl",,"24.9.2022",
+"IEiT-TEI-1 SysOp(2rok)","3","CWL","Systemy operacyjne (2rok)",,"Pt","14.10.2022",,"18:00","19:30","B-9 005","15","dr inż. Dańda, J
+dr inż. Juszka, D
+Weinzettl, J","danda@agh.edu.pl
+juszka@agh.edu.pl
+jakob@agh.edu.pl",,"24.9.2022",
+"IEiT-TEI-1 SysOp(2rok)","4","CWL","Systemy operacyjne (2rok)",,"Pt","14.10.2022",,"19:40","21:10","B-9 005","15","dr inż. Dańda, J
+dr inż. Juszka, D
+Weinzettl, J","danda@agh.edu.pl
+juszka@agh.edu.pl
+jakob@agh.edu.pl",,"24.9.2022",
+"IEiT-TEI-1 TechRad(2rok)","1","CWL","Techniki radiowe (2rok)",,"Śr","12.10.2022",,"14:40","16:10","B-9 1.04","15","dr inż. Kułakowski, P
+dr inż. Sikora, M","kulakowski@agh.edu.pl
+sikora@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 TechRad(2rok)","2","CWL","Techniki radiowe (2rok)",,"Śr","12.10.2022",,"13:00","14:30","B-9 1.12","15","dr inż. Kułakowski, P
+dr inż. Sikora, M","kulakowski@agh.edu.pl
+sikora@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 TechRad(2rok)","3","CWL","Techniki radiowe (2rok)",,"Śr","12.10.2022",,"9:40","11:10","B-9 1.10","15","dr inż. Kułakowski, P
+dr inż. Sikora, M","kulakowski@agh.edu.pl
+sikora@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 TechRad(2rok)","4","CWL","Techniki radiowe (2rok)",,"Śr","12.10.2022",,"11:20","12:50","B-9 1.04","15","dr inż. Kułakowski, P
+dr inż. Sikora, M","kulakowski@agh.edu.pl
+sikora@agh.edu.pl",,"26.9.2022",
+"SJO T-2-A-W-45","T-2-A-W-45-4","Lektorat","Język angielski",,"Cz","13.10.2022",,"8:15","9:45","D-11 312","28","mgr Krukiewicz-Gacek, A","kruk@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-W-45","T-2-A-W-45-4","Lektorat","Język angielski",,"Pn","10.10.2022",,"14:00","14:45","D-11 312","28","mgr Krukiewicz-Gacek, A","kruk@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-W-45","T-2-A-W-45-5","Lektorat","Język angielski",,"Cz","13.10.2022",,"8:15","9:45","C-7 2.13","20","mgr Weeks, A","aweeks@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-W-45","T-2-A-W-45-5","Lektorat","Język angielski",,"Pn","10.10.2022",,"14:00","14:45","C-7 4.19","25","mgr Weeks, A","aweeks@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-11","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","C-7 4.19","25","mgr Konieczna, M","earluine@gmail.com",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-11","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:30","17:00","C-7 2.15","35","mgr Konieczna, M","earluine@gmail.com",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-7","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","C-7 2.10","20","mgr Pasiut, K","kapasiut@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-7","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:00","16:30","C-7 2.17","25","mgr Pasiut, K","kapasiut@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-8","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","C-7 0.12","25","mgr Godlewska, E","pikus@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-8","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:00","16:30","D-11 311","28","mgr Godlewska, E","pikus@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-9","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","C-7 3.09","30","mgr Strugała, M","mstrugal@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-X-45","T-2-A-X-45-9","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:00","16:30","D-11 312","28","mgr Strugała, M","mstrugal@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-Y-45","T-2-A-Y-45-14","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","C-7 2.12","25","mgr Gruszka, A","agruszka@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-Y-45","T-2-A-Y-45-14","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:00","16:30","C-7 2.12","25","mgr Gruszka, A","agruszka@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-Z-45","T-2-A-Z-45-21","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","D-11 311","28","mgr Broniowska, A","abron@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-Z-45","T-2-A-Z-45-21","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:15","16:45","D-11 310","28","mgr Broniowska, A","abron@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-Z-45","T-2-A-Z-45-25","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","D-11 312","28","mgr Nowakowska, E","wettingn@agh.edu.pl",,"21.9.2022",
+"SJO T-2-A-Z-45","T-2-A-Z-45-25","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:00","16:30","D-11 308","28","mgr Nowakowska, E","wettingn@agh.edu.pl",,"21.9.2022",
