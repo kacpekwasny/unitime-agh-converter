@@ -8,10 +8,11 @@ from openpyxl.worksheet.worksheet import Worksheet
 import openpyxl.styles.colors as xlcolour
 from openpyxl.styles import PatternFill, Alignment, Font
 from openpyxl.styles.borders import Border, Side
+from openpyxl.utils import get_column_letter
 
 
 HEIGHT      = 4 # events start at 4 different times in hour
-DAY_WIDTH   = 6
+DAY_WIDTH   = 4
 DAY_HEIGHT  = 60
 FILE_NAME   = "out1.xlsx"
 
@@ -52,9 +53,9 @@ class Event:
         #                       -> if CWL       width 1
 
         width = {
-            "Wykład": 6,
-            "CWA":  3,
-            "CWL":  1
+            "Wykład": DAY_WIDTH,
+            "CWA":  DAY_WIDTH //2,
+            "CWL":  DAY_WIDTH // 4
         }.get(self.type, 1)
 
         cell = {
@@ -135,6 +136,12 @@ def set_day_borders(sh: Worksheet):
             cell.border = left_border
 
 
+def sheet_modify_width_height(sh: Worksheet):
+    for i in range(COLUMN_BASE + 1, COLUMN_BASE + 1 + DAY_WIDTH * 5):
+        sh.column_dimensions[get_column_letter(i)].width *= 1.02
+
+    for i in range(ROW_BASE + 1, ROW_BASE + DAY_HEIGHT):
+        sh.row_dimensions[i].height = 10
 
 def cell_range(worksheet: Worksheet, start_row: int, end_row: int, start_col: int, end_col: int):
     for col in range(start_col, end_col + 1):
@@ -155,6 +162,7 @@ with open(argv[1], 'r', encoding='utf-8') as f:
     sh = xl.active
 
     set_day_borders(sh)
+    sheet_modify_width_height(sh)
 
     thin_border = Border(left=Side(style='medium'), 
                          right=Side(style='medium'), 
@@ -196,7 +204,7 @@ with open(argv[1], 'r', encoding='utf-8') as f:
             xl.save(FILE_NAME)
             exit()
 
-    xl.save(FILE_NAME)
+    xl.save(".".join(argv[1].split(".")[:-1]) + ".xlsx")
 
 
 
