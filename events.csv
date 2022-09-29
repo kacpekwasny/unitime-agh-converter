@@ -5,16 +5,10 @@
 "IEiT-TEI-1 PodstEle(2rok)","1a","Wykład","Podstawy elektroniki (2rok)",,"Pn","10.10.2022",,"17:10","18:40","C-3 501","56","dr inż. Kościelnik, D","koscieln@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 SIP(2rok)","1","Wykład","Sieci IP (2rok)",,"Pn","10.10.2022",,"18:50","20:20","D-5 1","126","dr hab. inż. Pacyna, P","ppacyna@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 SiS(2rok)","1","Wykład","Sygnały i systemy (2rok)",,"Wt","11.10.2022",,"14:40","16:10","D-6 201","176","prof dr hab. Papir, Z","papir@agh.edu.pl",,"26.9.2022",
-"IEiT-TEI-1 TechRad(2rok)","1","Wykład","Techniki radiowe (2rok)",,"Pn","10.10.2022",,"11:20","12:50","D-6 201","176","dr inż. Kułakowski, P
-dr inż. Sikora, M","kulakowski@agh.edu.pl
-sikora@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 TechRad(2rok)","1a","Wykład","Techniki radiowe (2rok)",,"Wt","11.10.2022",,"9:40","11:10","D-6 201","176","dr inż. Kułakowski, P","kulakowski@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 SiS(2rok)","1","CWA","Sygnały i systemy (2rok)",,"Śr","12.10.2022",,"17:10","18:40","B-9 012","30","dr inż. Stoch, S","stoch@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 SiS(2rok)","2","CWA","Sygnały i systemy (2rok)",,"Śr","12.10.2022",,"18:50","20:20","B-9 012","30","dr inż. Stoch, S","stoch@agh.edu.pl",,"26.9.2022",
-"IEiT-TEI-1 MetNum(2rok)","1","CWL","Metody numeryczne (2rok)",,"Pn","10.10.2022",,"13:00","14:30","B-9 005","15","dr hab. inż. Chołda, P
-dr inż. Wszołek, J
-mgr inż. Kos, A","cholda@agh.edu.pl
-jwszolek@agh.edu.pl
-kosar@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 MetNum(2rok)","1","CWL","Metody numeryczne (2rok)",,"Wt","11.10.2022",,"18:00","19:30","B-9 1.04","15","mgr inż. Kos, A","kosar@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 MetNum(2rok)","2","CWL","Metody numeryczne (2rok)",,"Pt","14.10.2022",,"11:20","12:50","B-9 1.04","15","dr hab. inż. Chołda, P
 dr inż. Wszołek, J
 mgr inż. Kos, A","cholda@agh.edu.pl
@@ -34,8 +28,8 @@ kosar@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 POb(2rok)","2","CWL","Programowanie obiektowe (2rok)",,"Cz","13.10.2022",,"9:40","11:10","B-9 1.04","15","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 POb(2rok)","3","CWL","Programowanie obiektowe (2rok)",,"Cz","13.10.2022",,"11:20","12:50","B-9 1.04","15","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 POb(2rok)","4","CWL","Programowanie obiektowe (2rok)",,"Cz","13.10.2022",,"13:00","14:30","B-9 1.03","15","dr inż. Orzechowski, T","tomeko@agh.edu.pl",,"26.9.2022",
-"IEiT-TEI-1 SIP(2rok)","1","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"8:50","10:20","B-9 1.03","15","dr hab. inż. Kosek-Szott, K","kks@agh.edu.pl",,"26.9.2022",
-"IEiT-TEI-1 SIP(2rok)","2","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"10:30","12:00","B-9 1.03","15","dr hab. inż. Kosek-Szott, K","kks@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SIP(2rok)","1","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"8:00","9:30","B-9 1.03","15","dr hab. inż. Kosek-Szott, K","kks@agh.edu.pl",,"26.9.2022",
+"IEiT-TEI-1 SIP(2rok)","2","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"9:40","11:10","B-9 1.03","15","dr hab. inż. Kosek-Szott, K","kks@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 SIP(2rok)","3","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"8:00","9:30","B-9 1.04","15","dr hab. inż. Pacyna, P","ppacyna@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 SIP(2rok)","4","CWL","Sieci IP (2rok)",,"Śr","12.10.2022",,"9:40","11:10","B-9 1.04","15","dr hab. inż. Pacyna, P","ppacyna@agh.edu.pl",,"26.9.2022",
 "IEiT-TEI-1 SysOp(2rok)","1","CWL","Systemy operacyjne (2rok)",,"Cz","13.10.2022",,"18:00","19:30","B-9 005","15","dr inż. Dańda, J
@@ -88,3 +82,5 @@ sikora@agh.edu.pl",,"26.9.2022",
 "SJO T-2-A-Z-45","T-2-A-Z-45-21","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:15","16:45","D-11 310","28","mgr Broniowska, A","abron@agh.edu.pl",,"21.9.2022",
 "SJO T-2-A-Z-45","T-2-A-Z-45-25","Lektorat","Język angielski",,"Cz","13.10.2022",,"10:00","10:45","D-11 312","28","mgr Nowakowska, E","wettingn@agh.edu.pl",,"21.9.2022",
 "SJO T-2-A-Z-45","T-2-A-Z-45-25","Lektorat","Język angielski",,"Pn","10.10.2022",,"15:00","16:30","D-11 308","28","mgr Nowakowska, E","wettingn@agh.edu.pl",,"21.9.2022",
+"SWFiS_Hala H_15_M","16","Hala","Wychowanie Fizyczne 3","tylko mężczyźni","Pn","10.10.2022",,"11:00","12:30","U-12 Hala IV","30",,,,"24.9.2022",
+"SWFiS_Hala H_15_M","17","Hala","Wychowanie Fizyczne 3","tylko mężczyźni","Pn","10.10.2022",,"11:00","12:30","U-12 Hala V","30",,,,"24.9.2022",

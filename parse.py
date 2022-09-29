@@ -1,7 +1,7 @@
 import csv
-from email.policy import default
+# from email.policy import default
 from sys import argv
-from tkinter.tix import ROW
+# from tkinter.tix import ROW
 from traceback import print_exc
 from openpyxl import Workbook
 from openpyxl.worksheet.worksheet import Worksheet
